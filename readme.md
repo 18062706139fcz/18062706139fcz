@@ -18,4 +18,9 @@ Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/mas
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=18062706139fcz&layout=compact)
 
+## My Personal Blog
+[Fronted Base](https://18062706139fcz.github.io/learn-javas/handbook/start.html)
+
+## All
+
 ![madneal's github stats](https://github-readme-stats.vercel.app/api?username=18062706139fcz&show_icons=true&theme=radical)
