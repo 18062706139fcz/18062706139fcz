@@ -1,4 +1,4 @@
-Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">  ![Profile View Counter](https://komarev.com/ghpvc/?username=18062706139fcz)
+Hi there ![Profile View Counter](https://komarev.com/ghpvc/?username=18062706139fcz)
 
 🏫 There is a student @[WHUT](http://www.whut.edu.cn).Major in Fintech.<br>
 
