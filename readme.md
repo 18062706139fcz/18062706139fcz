@@ -17,6 +17,10 @@ Hi there ![Profile View Counter](https://komarev.com/ghpvc/?username=18062706139
 ## My Personal Blog
 [Fronted Base](https://18062706139fcz.github.io/learn-javas/handbook/start.html)
 
+[Ryker-](https://www.rykerfeng.cn)
+
+[MyFirstBlog](https://18062706139fcz.github.io/index.html)
+
 ## 🔭 All
 
 ![madneal's github stats](https://github-readme-stats.vercel.app/api?username=18062706139fcz&show_icons=true&theme=radical)
