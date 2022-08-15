@@ -19,7 +19,7 @@ Hi there ![Profile View Counter](https://komarev.com/ghpvc/?username=18062706139
 
 [Ryker-](https://www.rykerfeng.cn)
 
-[MyFirstBlog](https://18062706139fcz.github.io/index.html)
+[MyFirstBlog](https://18062706139fcz.github.io/index.html) using html,css,and little javascript.
 
 ## 🔭 All
 
