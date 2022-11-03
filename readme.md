@@ -23,6 +23,10 @@ Hi there ![Profile View Counter](https://komarev.com/ghpvc/?username=18062706139
 
 [MyFirstBlog](https://18062706139fcz.github.io/index.html) using html,css,and little javascript.
 
+## My knowledge base
+
+[interview](https://www.yuque.com/books/share/68dc5e98-568a-46a8-8fd6-65dd0e84efec?)
+
 ## 🔭 All
 
 ![madneal's github stats](https://github-readme-stats.vercel.app/api?username=18062706139fcz&show_icons=true&theme=radical)
