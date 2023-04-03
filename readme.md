@@ -2,11 +2,13 @@ Hi there ![Profile View Counter](https://komarev.com/ghpvc/?username=18062706139
 
 🏫 There is a student @[WHUT](http://www.whut.edu.cn).Major in Fintech.<br>
 
-🎈 I'm CaiZhi Feng, you can call me Ryker_Feng.<br>
+🎈 I'm CaiZhi Feng, you can call me Ryker FENG.<br>
 
 👨‍💻 Working hard to be an excellent Frontend Developer~
 
 📫 qq: 2279549769 wx: 18062706139
+
+And i recently am a intern in NIO, a large multinational car companies.(2022.12 - now)
 
 ## 🌏 Languages
 
