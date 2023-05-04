@@ -8,15 +8,27 @@ Hi there ![Profile View Counter](https://komarev.com/ghpvc/?username=18062706139
 
 📫 qq: 2279549769 wx: 18062706139
 
-And i recently am a intern in NIO, a large multinational car companies.(2022.12 - now)
-
 ## 🌏 Languages
 
 | Mastered                                                     | Studying                                                     |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | ![Chinese](https://img.shields.io/badge/-Chinese-ff0000?style=flat-square) ![HTML5](https://img.shields.io/badge/-HTML5-e34f26?style=flat-square&logo=HTML5&logoColor=fff) ![CSS3](https://img.shields.io/badge/-CSS3-1572b6?style=flat-square&logo=CSS3&labelColor=1572b6) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&amp;logo=javascript&amp;logoColor=black) | ![English](https://img.shields.io/badge/-English-239dff?style=flat-square) ![C](https://img.shields.io/badge/-C-a8b9cc?style=flat-square&logo=C&logoColor=fff) ![C++](https://img.shields.io/badge/-C%2b%2b-00599c?style=flat-square&logo=C%2b%2b&logoColor=fff) ![Python](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=python&logoColor=fff)  ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&amp;logo=vue.js&amp;logoColor=4FC08) ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=flat-square&amp;logo=node.js&amp;logoColor=white)  ![React](https://img.shields.io/badge/React-20232A?style=flat-square&amp;logo=react&amp;logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&amp;logo=typescript&amp;logoColor=white) |
 
+## Some intern experience
 
+<tr>
+<td>
+
+<img align="right" width="100" height="100" src="https://pic2.zhimg.com/80/v2-da2b3d2de5b6144ca8031b1cfa9d72f1_1440w.webp" />
+
+- [Nio](https://www.nio.cn/) &emsp; 📌 2022-12 —— Now
+
+  - 工作岗位：前端实习生
+  - 工作部门：自动驾驶研发运营
+  - 工作方向：ADass运营后台、NIO APP
+
+</td>
+</tr>
 
 ## My Personal Blog
 [Fronted Base](https://18062706139fcz.github.io/learn-javas/handbook/start.html)
