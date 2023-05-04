@@ -23,21 +23,20 @@
 
 - [Nio](https://www.nio.cn/) &emsp; 📌 2022-12 —— Now
 
-  - 工作岗位：前端实习生
-  - 工作部门：自动驾驶研发运营
-  - 工作方向：ADass运营后台、NIO APP
+  - Job position: front-end intern
+  - Work Department: Autonomous Driving Operations
+  - Work direction: ADass operation backend, NIO APP
 
 </td>
 </tr>
 
-## My Personal Blog
+## My Personal Blog & Knowledge Base
+
 [Fronted Base](https://18062706139fcz.github.io/learn-javas/handbook/start.html)
 
 [Ryker-](https://www.rykerfeng.cn)
 
 [MyFirstBlog](https://18062706139fcz.github.io/index.html) using html,css,and little javascript.
-
-## My knowledge base
 
 [interview](https://www.yuque.com/books/share/68dc5e98-568a-46a8-8fd6-65dd0e84efec?)
 
