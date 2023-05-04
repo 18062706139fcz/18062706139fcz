@@ -23,7 +23,7 @@
 
 - [Nio](https://www.nio.cn/) &emsp; 📌 2022-12 —— Now
 
-  - Job position: front-end intern
+  - Job position: Front-end intern
   - Work Department: Autonomous Driving Operations
   - Work direction: ADass operation backend, NIO APP
 
