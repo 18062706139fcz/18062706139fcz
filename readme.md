@@ -32,13 +32,13 @@
 
 ## My Personal Blog & Knowledge Base
 
-[Fronted Base](https://18062706139fcz.github.io/learn-javas/handbook/start.html)
++ [Ryker-](https://www.rykerfeng.cn) A Chinese website for sharing life and experiences
 
-[Ryker-](https://www.rykerfeng.cn)
++ [MyFirstBlog](https://18062706139fcz.github.io/index.html) Using html,css,and little javascript.
 
-[MyFirstBlog](https://18062706139fcz.github.io/index.html) using html,css,and little javascript.
++ [interview](https://www.yuque.com/books/share/68dc5e98-568a-46a8-8fd6-65dd0e84efec?) A knowledge base for recording learning and growth
 
-[interview](https://www.yuque.com/books/share/68dc5e98-568a-46a8-8fd6-65dd0e84efec?)
++ [Fronted Base](https://18062706139fcz.github.io/learn-javas/handbook/start.html) Front end knowledge base no longer maintained
 
 ## 🔭 Overview
 
