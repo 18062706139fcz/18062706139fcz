@@ -6,7 +6,7 @@
 
 👨‍💻 Working hard to be an excellent Frontend Developer~
 
-📫 qq: 2279549769 wx: 18062706139
+📫 QQ: 2279549769 WeChart: 18062706139
 
 ## 🌏 Languages
 
@@ -40,6 +40,12 @@
 
 [interview](https://www.yuque.com/books/share/68dc5e98-568a-46a8-8fd6-65dd0e84efec?)
 
-## 🔭 All
+## 🔭 Overview
 
 ![madneal's github stats](https://github-readme-stats.vercel.app/api?username=18062706139fcz&show_icons=true&theme=radical)
+
+------------
+
+<p align="center"><strong>We will become friends<br>right?</strong></p>
+
+------------
