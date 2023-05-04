@@ -19,7 +19,7 @@ Hi there ![Profile View Counter](https://komarev.com/ghpvc/?username=18062706139
 <tr>
 <td>
 
-<img align="right" width="100" height="100" src="https://pic2.zhimg.com/80/v2-da2b3d2de5b6144ca8031b1cfa9d72f1_1440w.webp" />
+<img align="right" width="100" height="100" src="./img/NIO_logo" />
 
 - [Nio](https://www.nio.cn/) &emsp; 📌 2022-12 —— Now
 
