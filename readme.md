@@ -55,11 +55,13 @@
 
 ## 🔭 Overview
 
-<div style="display:flex">
-<img src="https://4sdvg7tqbv.us.aircode.run/juejin?uid=2542507522261965&type=tokyonight" alt="ryker的掘金数据" style="zoom:100%;" align="left"/>
+<table>
+  <tr>
+    <td><img src="https://4sdvg7tqbv.us.aircode.run/juejin?uid=2542507522261965&hide_border=true&type=tokyonight" alt="ryker的掘金数据" style="zoom:100%;" align="left"/></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=18062706139fcz&show_icons=true&hide_border=true"  style="zoom:100%;" align="left"></td>
+  </tr>
+</table>
 
-<img src="https://github-readme-stats.vercel.app/api?username=18062706139fcz&show_icons=true&theme=radical">
-</div>
 
 ------------
 
