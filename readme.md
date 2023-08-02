@@ -55,8 +55,9 @@
 
 ## 🔭 Overview
 
-![madneal's github stats](https://github-readme-stats.vercel.app/api?username=18062706139fcz&show_icons=true&theme=radical)
+<img src="https://4sdvg7tqbv.us.aircode.run/juejin?uid=2542507522261965&type=tokyonight" alt="ryker的掘金数据" style="zoom:100%;" align="left"/>
 
+![madneal's github stats](https://github-readme-stats.vercel.app/api?username=18062706139fcz&show_icons=true&theme=radical)
 
 ------------
 
