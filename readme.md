@@ -19,9 +19,21 @@
 <tr>
 <td>
 <div height="20"></div>
+  <img align="right" width="140" height="100" src="https://img10.360buyimg.com/img/jfs/t1/199023/6/37257/12539/65361a20F9cac6be6/80afe4b365931a5d.jpg" />
+
+- [JD](https://www.jd.com/) &emsp; 📌 2023-10 —— Now
+
+  - Job position: Front-end intern
+  - Work Department: JD Retail Data Asset Department.
+  - Work direction: ToB data asset direction.
+    </td>
+    </tr>
+  <div height="20"></div>
+    <tr>
+    <td>
 <img align="right" width="100" height="100" src="https://img05.51jobcdn.com/fansImg/CompLogo/5/4401/4400526/4400526_300.png?636963702107020060" />
 
-- [美团](https://home.meituan.com/) &emsp; 📌 2023-06 —— Now
+- [Meituan](https://home.meituan.com/) &emsp; 📌 2023-06 —— 2023-10
 
   - Job position: System development intern
   - Work Department: Dvertising position closing team of the marketing department
@@ -34,7 +46,7 @@
 
 <img align="right" width="100" height="100" src="./img/NIO_logo" />
 
-- [Nio](https://www.nio.cn/) &emsp; 📌 2022-12 —— 2023-06
+- [NIO](https://www.nio.cn/) &emsp; 📌 2022-12 —— 2023-06
 
   - Job position: Front-end intern
   - Work Department: Autonomous Driving Operations
